@@ -38,7 +38,7 @@
   "resolutions": {
     "@tryghost/logging": "2.3.6",
     "moment": "2.29.1",
-    "moment-timezone": "0.5.23"
+    "moment-timezone": "0.5.33"
   },
   "renovate": {
     "extends": [
